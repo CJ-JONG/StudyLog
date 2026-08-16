@@ -3,7 +3,7 @@
 공부한 내용을 카테고리별로 기록하고 관리하는 개인 학습 기록 웹 애플리케이션입니다.
 
 ## 실행 화면
-![StudyLog 대시보드](./readme/images/StdDashboard.png)
+![StudyLog 대시보드](./readme/images/StdDashboard-v2.png)
 
 ## 💡 만든 이유
 
